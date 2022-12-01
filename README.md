@@ -1,3 +1,3 @@
 # Site-animado
 
-<img src="https://i.imgur.com/NgveUV9.gifv" alt="GIF" data-canonical-src="https://i.imgur.com/NgveUV9.gifv" style="max-width: 50%;">
+<img src="https://i.imgur.com/NgveUV9.gif" alt="GIF" data-canonical-src="https://i.imgur.com/NgveUV9.gif" style="max-width: 50%;">
