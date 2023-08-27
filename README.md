@@ -22,7 +22,7 @@ Clone este repositório para o seu ambiente local.
 - index.html: O arquivo HTML principal que estrutura o site e inclui os elementos do footer animado.
 
 - css/style.css: Arquivo CSS que contém as definições de estilo e as animações keyframes para o footer.
-- images/: Pasta que armazena as imagens utilizadas no site e no footer animado.
+- imagens/: Pasta que armazena as imagens utilizadas no site e no footer animado.
 
 
 
