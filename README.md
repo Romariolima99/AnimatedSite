@@ -4,13 +4,6 @@
 
 - Este repositório contém um site criado com o framework Bootstrap, que apresenta um footer animado através do uso de keyframes CSS para animar imagens. O site é uma demonstração simples de como adicionar animações atrativas usando tecnologias web populares.
 
-- Instruções de Uso:
-Clone este repositório para o seu ambiente local.
-
-- bash
-
-- git clone: https://github.com/Romariolima99/Site-animado.git
-
 - Abra o arquivo index.html em um navegador da web para visualizar o site.
 
 - Tecnologias Utilizadas:
@@ -27,3 +20,10 @@ Clone este repositório para o seu ambiente local.
 
 
 <img src="https://i.imgur.com/jLTbvbM.gif" alt="GIF" data-canonical-src="https://i.imgur.com/jLTbvbM.gif" style="max-width: 50%;">
+
+# Instruções de Uso:
+
+- Clone este repositório para o seu ambiente local.
+
+```shell
+- git clone: https://github.com/Romariolima99/Site-animado.git```
